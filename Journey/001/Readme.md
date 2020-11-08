@@ -102,13 +102,6 @@ In SaaS, the customer can access all the needed application services over the in
 https://youtu.be/dH0yz-Osy54
 
 
-
-
-<<<<<<< HEAD
-=======
-![Screenshot](https://via.placeholder.com/500x300)
->>>>>>> adca5f720ed5e5395bece2c2d9ced88d37b4e7dd
-
 <!-- ### Step 1 — Summary of Step
 
 ![Screenshot](https://via.placeholder.com/500x300)
