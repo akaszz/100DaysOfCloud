@@ -15,7 +15,7 @@ basic idea about cloud
 
 # 5 Best Cloud Computing Service Providers
 
-Below is the list of 6 best cloud computing service providers:
+Below is the list of 5 best cloud computing service providers:
 
 
 # 1. Amazon Web Services (AWS)
@@ -99,9 +99,9 @@ It provides services to both beginners and professionals. It offers services for
 · It provides services like Adobe Creative Cloud, Adobe Document Cloud, and Adobe Experience Cloud.
 
 
-## AWS vs Azure vs Google Cloud 
+# AWS vs Azure vs Google Cloud 
 
-# Pros and Cons of Cloud Computing Platforms to Know Before You Finalize
+## Pros and Cons of Cloud Computing Platforms to Know Before You Finalize
 
 With the increasing demand for cloud computing platforms in the market, large players are marking their space to giving tough competition to each other. Due to the constant evolution of technology, market and customer requirements, the competition of leadership is also fiercely increasing. There are many cloud computing players in the market who trying to make their own space in the industry. Let’s check out the cloud computing players in the industry:
 
