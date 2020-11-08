@@ -45,10 +45,15 @@ Cloud computing comes to the rescue of businesses which cannot afford large inve
 
 
 # --> Some of the features of cloud
+
 1 On demand access
+
 2 High availability
+
 3 Scalability & Elasticity
+
 4 Redundancy & Disaster Recovery
+
 5 Better resource costs
 
 # On Demand Access
