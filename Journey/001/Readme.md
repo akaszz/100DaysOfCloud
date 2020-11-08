@@ -103,7 +103,7 @@ In SaaS, the customer can access all the needed application services over the in
 
 ### Step 1 — Summary of Step
 
-![Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cloud_computing.svg/1200px-Cloud_computing.svg.png/500x300)
+![Screenshot](https://via.placeholder.com/500x300)
 
 <!-- ### Step 1 — Summary of Step
 
