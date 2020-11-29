@@ -4,12 +4,11 @@
 
 ## Introduction
 
-✍️ AWS CodePipeline is a fully managed continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates. CodePipeline automates the build, test, and deploy phases of your release process every time there is a code change, based on the release model you define. This enables you to rapidly and reliably deliver features and updates. You can easily integrate AWS CodePipeline with third-party services such as GitHub or with your own custom plugin. With AWS CodePipeline, you only pay for what you use. There are no upfront fees or long-term commitments.
+ AWS CodePipeline is a fully managed continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates. CodePipeline automates the build, test, and deploy phases of your release process every time there is a code change, based on the release model you define. This enables you to rapidly and reliably deliver features and updates. You can easily integrate AWS CodePipeline with third-party services such as GitHub or with your own custom plugin. With AWS CodePipeline, you only pay for what you use. There are no upfront fees or long-term commitments.
 
 ## Prerequisite
 
-✍️ 
-github 
+github,
 way around aws consloe
 
 ## Use Case
@@ -21,11 +20,11 @@ Here on the xampp projets directory that is opt/lampp/htdocs, I have a project d
 
 ## Cloud Research
 
-- ✍️https://aws.amazon.com/codepipeline
+- https://aws.amazon.com/codepipeline
 
 ## Try yourself
 
-✍️ this will help ur process of continuous changes 
+ this will help ur process of continuous changes 
 
 ### Step 1 — Summary of Step
 
@@ -41,7 +40,9 @@ deploy it on aws using code pipeline
 
 ## ☁️ Cloud Outcome
 
-✍️ https://github.com/akaszz/github-profile-finder
+this is the project
+
+ https://github.com/akaszz/github-profile-finder
 
 The GitHub Profile Finder web app powered by GitHub API which is built using HTML/CSS, Bootstrap 4 and Vanilla Javascript
 
